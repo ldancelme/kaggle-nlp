@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.venvPath": "~/virtualenvs",
+		"python.pythonPath": "~/virtualenvs/nlpenv/bin/python"
+	}
+}
